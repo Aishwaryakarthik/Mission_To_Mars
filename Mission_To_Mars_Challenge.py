@@ -6,8 +6,6 @@
 # In[ ]:
 
 
-# by Emmanuel Martinez
-
 
 # In[2]:
 
